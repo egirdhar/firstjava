@@ -7,5 +7,8 @@ class Main
  
     System.out.println("..Hello World.."); 
   }
+  public void message () {
+    return "here is your messsage";
+  } 
 }
 
